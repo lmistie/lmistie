@@ -1,4 +1,4 @@
-# Helo my name is Roman 👋
+# Hello my name is Roman 👋
 ## I am a 2nd year student of RTU MIREA. I also study at School 21 with the support of Ecole 42
 ### I am still a novice programmer in the C programming language, but soon I will graduate to Junior and who knows, maybe I will become an excellent specialist ᕦ(ò_óˇ)ᕤ
 
