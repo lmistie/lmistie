@@ -1,5 +1,5 @@
 # Hello my name is Roman 👋
-## I am a 2nd year student of RTU MIREA. I also study at School 21 with the support of Ecole 42
+## I am a 2nd year student of RTU MIREA. I am studying for a bachelor's degree in information and Communication technologies and communication systems, as this specialty opens the way for me to OA "RKS", where I can get 3 years of work experience. I'm not going to work in this specialty, so I decided to go to the best direction of the 21st century, that is, in IT. I also study at School 21 with the support of Ecole 42
 ### I am still a novice programmer in the C programming language but soon I will graduate to Junior and who knows maybe I will become an excellent specialist ᕦ(ò_óˇ)ᕤ
 
 <!--
