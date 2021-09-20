@@ -44,7 +44,11 @@
 [![Lmistie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=radical)](https://wakatime.com/dashboard)
 </div>
 
-### Follow me
+<h3 align="center"><font size="6px"> Follow me </font></h3>
+
+<div align="center">
+
 ![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=vk)
 ![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)
 ![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)
+</div>
