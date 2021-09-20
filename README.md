@@ -14,8 +14,8 @@
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
 ![Ruby](https://img.shields.io/badge/-ruby-000000?style=for-the-badge&logo=ruby)
 
+
 ## My Stats
-<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie&show_icons=true&theme=radical)
 </div>
 
