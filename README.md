@@ -15,6 +15,7 @@
 ![C_prog](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![CPP](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
+![Ruby](https://img.shields.io/badge/-ruby-000000?style=for-the-badge&logo=ruby)
 
 ### Follow me
 
