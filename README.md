@@ -30,7 +30,7 @@
 
 ## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie&show_icons=true&theme=radical)
-[![Lmistie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=radical)](https://github.com/lmistie/github-readme-stats)
+[![Lmistie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=radical)](https://wakatime.com/dashboard)
 
 ### Follow me
 ![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=vk)
