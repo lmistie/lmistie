@@ -1,4 +1,4 @@
-<p align="center"><font size="6px"> Gorbunov Roman </font></p>
+<h3 align="center"><font size="6px"> Gorbunov Roman </font></p>
 <!--# <center> Меня зовут Горбунов Роман </center>-->
 <p align="center"><font size="6px"> I'm beginner Software Engineer and Web Programmer</font></h2>
 <!--# <center>Я начинающий инженер-программист и веб-программист</center>-->
