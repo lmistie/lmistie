@@ -11,7 +11,7 @@
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmistie&repo=github-readme-stats&theme=midnight-purple)](https://github.com/lmistie/github-readme-stats)-->
 
 
-<p align="center"><font size="6px">  My languages and tools</font></p>
+<h3 align="center"><font size="6px">  My languages and tools</font></h3>
 
 ![HTML](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css3)
