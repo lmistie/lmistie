@@ -1,17 +1,17 @@
-<h1 align="center";font size=40> Gorbunov Roman </h1>
+<p align="center"><font size="6px"> Gorbunov Roman </font></p>
 <!--# <center> Меня зовут Горбунов Роман </center>-->
-<h2 align="center"> I'm beginner Software Engineer and Web Programmer</h2>
+<p align="center"><font size="6px"> I'm beginner Software Engineer and Web Programmer</font></h2>
 <!--# <center>Я начинающий инженер-программист и веб-программист</center>-->
 
 [![Header](https://github.com/lmistie/lmistie/blob/master/img/header.png)](https://www.canva.com/design/DAEqeZfAzNc/-UYjaGaKHueaHdypzOIU_w/view?website#2:1)
 
-### <center>I am a 3rd year student of RTU MIREA. <br>I am studying for a bachelor's degree in Information and Communication Technologies and communication systems. <br>I'm going to practice at the OA Russian Space Forces soon.<center>
+<p align="center"><font size="5px">I am a 3rd year student of RTU MIREA. <br>I am studying for a bachelor's degree in Information and Communication Technologies and communication systems. <br>I'm going to practice at the OA Russian Space Forces soon.</font></p>
 <!--## <center>Я студент 3 курса РТУ МИРЭА. <br>Я учусь на степень бакалавра в области информационно - коммуникационных технологий и систем связи. Я скоро буду тренироваться в ОА Российские Космические Войска.</center>-->
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmistie&repo=github-readme-stats&theme=midnight-purple)](https://github.com/lmistie/github-readme-stats)-->
 
 
-<p align="center">  My languages and tools</p>
+<p align="center"><font size="6px">  My languages and tools</font></p>
 
 ![HTML](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css3)
