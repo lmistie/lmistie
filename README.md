@@ -12,6 +12,7 @@
 
 
 <h3 align="center"><font size="6px">  My languages and tools</font></h3>
+<div align="center">
 
 ![HTML](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css3)
@@ -22,12 +23,16 @@
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
 ![Vscode](https://img.shields.io/badge/-vscode-000000?style=for-the-badge&logo=VisualStudioCode)
 ![Vim](https://img.shields.io/badge/-vim-000000?style=for-the-badge&logo=Vim)
+
+</div>
 <!--![Sql](https://img.shields.io/badge/-mySql-000000?style=for-the-badge&logo=mySql)-->
 <!--![Ruby](https://img.shields.io/badge/-ruby-000000?style=for-the-badge&logo=ruby)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&layout=compact)](https://github.com/lmistie/github-readme-stats)-->
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&langs_count=10&theme=midnight-purple&a)](https://github.com/lmistie/github-readme-stats)
+</div>
 
 
 
