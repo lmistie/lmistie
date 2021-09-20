@@ -2,9 +2,6 @@
 # <center>I'm beginner Software Engineer and Web Programmer</center>
 [![Header](https://github.com/lmistie/lmistie/blob/master/img/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.png)](https://www.canva.com/design/DAEqeZfAzNc/-UYjaGaKHueaHdypzOIU_w/view?website#2:1)
 ## <center>I am a 3rd year student of RTU MIREA. <br>I am studying for a bachelor's degree in Information and Communication Technologies and communication systems. I'm going to practice at the OA RKS soon.<center>
-<!--
-### I am still a novice programmer in the C programming language but soon I will graduate to Junior and who knows maybe I will become an excellent specialist ᕦ(ò_óˇ)ᕤ-->
-
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5)
@@ -17,21 +14,18 @@
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
 ![Ruby](https://img.shields.io/badge/-ruby-000000?style=for-the-badge&logo=ruby)
 
+## My Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie&hide=contribs,prs)
+
+
 ### Follow me
+![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=vk)
+![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)
+![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)
 
 
 
 <!--
 **lmistie/lmistie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
