@@ -23,7 +23,7 @@
 <!--![Ruby](https://img.shields.io/badge/-ruby-000000?style=for-the-badge&logo=ruby)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&layout=compact)](https://github.com/lmistie/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&langs_count=10&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&langs_count=10&theme=midnight-purple)](https://github.com/lmistie/github-readme-stats)
 
 
 
