@@ -1,4 +1,4 @@
-# <center>My name is Roman Gorbunov</center>
+# <center> My name is Roman Gorbunov </center>
 # <center>I'm beginner Software Engineer and Web Programmer</center>
 [![Header](https://github.com/lmistie/lmistie/blob/master/img/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.png)](https://www.canva.com/design/DAEqeZfAzNc/-UYjaGaKHueaHdypzOIU_w/view?website#2:1)
 ## <center>I am a 3rd year student of RTU MIREA. <br>I am studying for a bachelor's degree in Information and Communication Technologies and communication systems. I'm going to practice at the OA RKS soon.<center>
@@ -15,8 +15,10 @@
 ![Ruby](https://img.shields.io/badge/-ruby-000000?style=for-the-badge&logo=ruby)
 
 ## My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie&hide=contribs,prs)
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie&show_icons=true&theme=radical)
+</div>
+
 
 
 ### Follow me
