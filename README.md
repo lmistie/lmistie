@@ -1,11 +1,11 @@
-<h2 align="center"><font size="6px"> Gorbunov Roman </font></p>
+<h2 align="center"><font size="6px"> Gorbunov Roman </font></h2>
 <!--# <center> Меня зовут Горбунов Роман </center>-->
-<p align="center"><font size="6px"> I'm beginner Software Engineer and Web Programmer</font></h2>
+<h2 align="center"><font size="6px"> I'm beginner Software Engineer and Web Programmer</font></h2>
 <!--# <center>Я начинающий инженер-программист и веб-программист</center>-->
 
 [![Header](https://github.com/lmistie/lmistie/blob/master/img/header.png)](https://www.canva.com/design/DAEqeZfAzNc/-UYjaGaKHueaHdypzOIU_w/view?website#2:1)
 
-<h3 align="center"><font size="5px">I am a 3rd year student of RTU MIREA. <br>I am studying for a bachelor's degree in Information and Communication Technologies and communication systems. <br>I'm going to practice at the OA Russian Space Forces soon.</font></p>
+<h3 align="center"><font size="5px">I am a 3rd year student of RTU MIREA. <br>I am studying for a bachelor's degree in Information and Communication Technologies and communication systems. <br>I'm going to practice at the OA Russian Space Forces soon.</font></h3>
 <!--## <center>Я студент 3 курса РТУ МИРЭА. <br>Я учусь на степень бакалавра в области информационно - коммуникационных технологий и систем связи. Я скоро буду тренироваться в ОА Российские Космические Войска.</center>-->
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmistie&repo=github-readme-stats&theme=midnight-purple)](https://github.com/lmistie/github-readme-stats)-->
