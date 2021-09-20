@@ -13,12 +13,12 @@
 ![HTML](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=JavaScript)
-![Sql](https://img.shields.io/badge/-mySql-000000?style=for-the-badge&logo=mySql)
+<!--![Sql](https://img.shields.io/badge/-mySql-000000?style=for-the-badge&logo=mySql)-->
 ![.NET](https://img.shields.io/badge/-Framework-000000?style=for-the-badge&logo=.net)
 ![C_prog](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![CPP](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
-![Ruby](https://img.shields.io/badge/-ruby-000000?style=for-the-badge&logo=ruby)
+<!--![Ruby](https://img.shields.io/badge/-ruby-000000?style=for-the-badge&logo=ruby)-->
 ![Vscode](https://img.shields.io/badge/-vscode-000000?style=for-the-badge&logo=VisualStudioCode)
 ![Vim](https://img.shields.io/badge/-vim-000000?style=for-the-badge&logo=Vim)
 
