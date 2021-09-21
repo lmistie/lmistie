@@ -50,7 +50,7 @@
 
 <div align="center">
 
-![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=vk)
+[![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=vk)](https://vk.com/lmistie)
 ![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)
 ![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)
 </div>
