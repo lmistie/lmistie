@@ -31,7 +31,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&layout=compact)](https://github.com/lmistie/github-readme-stats)-->
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -41,7 +41,7 @@
 <h3 align="center"><font size="6px"> My Stats </font></h3>
 <div align="center">
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![lmistie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
