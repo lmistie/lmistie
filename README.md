@@ -41,7 +41,7 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie&show_icons=true&theme=midnight-purple)
-[![Lmistie wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=midnight-purple)](https://wakatime.com/dashboard)
+[![дmistie wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=midnight-purple)](https://wakatime.com/dashboard)
 
 
 </div>
