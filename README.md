@@ -31,7 +31,8 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&layout=compact)](https://github.com/lmistie/github-readme-stats)-->
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&langs_count=10&theme=midnight-purple)](https://github.com/lmistie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
@@ -41,7 +42,7 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie&show_icons=true&theme=midnight-purple)
-[![дmistie wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=midnight-purple)](https://wakatime.com/dashboard)
+[![lmistie wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=midnight-purple)](https://wakatime.com/dashboard)
 
 
 </div>
