@@ -41,8 +41,8 @@
 <h3 align="center"><font size="6px"> My Stats </font></h3>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie&show_icons=true&theme=midnight-purple)
-[![lmistie wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=midnight-purple)](https://wakatime.com/dashboard)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 </div>
