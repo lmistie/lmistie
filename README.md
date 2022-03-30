@@ -10,6 +10,7 @@
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmistie&repo=github-readme-stats&theme=midnight-purple)](https://github.com/lmistie/github-readme-stats)-->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F7F7F7FF&lines=Computer+science+student)](https://git.io/typing-svg)
 
 <h2 align="center"><font size="6px">  My languages and tools</font></h2>
 <div align="center">
@@ -23,6 +24,8 @@
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
 ![Vscode](https://img.shields.io/badge/-vscode-000000?style=for-the-badge&logo=VisualStudioCode)
 ![Vim](https://img.shields.io/badge/-vim-000000?style=for-the-badge&logo=Vim)
+![Asm](https://img.shields.io/badge/-asm-000000?style=for-the-badge&logo=Asm)
+
 
 </div>
 <!--![Sql](https://img.shields.io/badge/-mySql-000000?style=for-the-badge&logo=mySql)-->
