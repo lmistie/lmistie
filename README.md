@@ -12,7 +12,7 @@
 
 <h3 align="center"><font size="10px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F7F7F7FF&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F7F7F7FF&lines=+++++Computer+science+student)](https://git.io/typing-svg)
 
 </font></h3>
 
