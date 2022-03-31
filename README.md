@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
 ![Vscode](https://img.shields.io/badge/-vscode-000000?style=for-the-badge&logo=VisualStudioCode)
 ![Vim](https://img.shields.io/badge/-vim-000000?style=for-the-badge&logo=Vim)
-![ASSEMBLER](https://img.shields.io/badge/-Asm-fffffff?style=for-the-badge&logo=Asm)
+![ASSEMBLER](https://img.shields.io/badge/-Asm-000000?style=for-the-badge&logo=AssemblyScript)
 
 
 </div>
