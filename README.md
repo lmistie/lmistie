@@ -10,14 +10,18 @@
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmistie&repo=github-readme-stats&theme=midnight-purple)](https://github.com/lmistie/github-readme-stats)-->
 
+<h3 align="center"><font size="5px">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F7F7F7FF&lines=Computer+science+student)](https://git.io/typing-svg)
+
+</font></h3>
 
 <h2 align="center"><font size="6px">  My languages and tools</font></h2>
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=JavaScript)
+<!-- ![JavaScript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=JavaScript) -->
 ![.NET](https://img.shields.io/badge/-Framework-000000?style=for-the-badge&logo=.net)
 ![C_prog](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![CPP](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b)
