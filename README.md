@@ -10,7 +10,7 @@
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmistie&repo=github-readme-stats&theme=midnight-purple)](https://github.com/lmistie/github-readme-stats)-->
 
-<h3 align="center"><font size="5px">
+<h3 align="center"><font size="10px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F7F7F7FF&lines=Computer+science+student)](https://git.io/typing-svg)
 
