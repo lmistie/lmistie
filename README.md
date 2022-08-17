@@ -1,5 +1,5 @@
 <div align="right">
-    <h1 >Gorbunov Roman 
+    <h2 >Gorbunov Roman 
 
    ![Profile Badges](https://www.codewars.com/users/lmistie/badges/large)
 
