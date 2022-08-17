@@ -1,4 +1,7 @@
 <h2 align="center"><font size="6px"> Gorbunov Roman </font></h2>
+
+   ![Profile Badges](https://www.codewars.com/users/lmistie/badges/large)
+
 <!--# <center> Меня зовут Горбунов Роман </center>-->
 <h2 align="center"><font size="6px"> I'm beginner Software Engineer and Web Programmer</font></h2>
 <!--# <center>Я начинающий инженер-программист и веб-программист</center>-->
@@ -12,7 +15,7 @@
 
 <h3 align="center"><font size="10px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F7F7F7FF&lines=+++++Computer+science+student)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F7F7F7FF&lines=+++++Computer+science+student)](https://git.io/typing-svg) -->
 
 </font></h3>
 
@@ -54,11 +57,11 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
    ![Profile Badges](https://www.codewars.com/users/lmistie/badges/large)
 
-</div>
+</div> -->
 
 <h3 align="center"><font size="6px"> Follow me </font></h3>
 
