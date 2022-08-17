@@ -1,13 +1,13 @@
 <div align="right">
-    <h2 >Gorbunov Roman 
+    <font size = 7"> Gorbunov Roman </font>
 
    ![Profile Badges](https://www.codewars.com/users/lmistie/badges/large)
 
-</h1>
+</font>
 </div>
 
 <!--# <center> Меня зовут Горбунов Роман </center>-->
-<Alt-h2 align="center"><font size="6px"> I'm beginner Software Engineer and Web Programmer</font></h2>
+<div align="center"><font size="6px"> I'm beginner Software Engineer and Web Programmer</font></div>
 <!--# <center>Я начинающий инженер-программист и веб-программист</center>-->
 
 [![Header](https://github.com/lmistie/lmistie/blob/master/img/header.png)](https://www.canva.com/design/DAEqeZfAzNc/-UYjaGaKHueaHdypzOIU_w/view?website#2:1)
