@@ -8,7 +8,7 @@
 <h3 align="center"><font size="5px">I am a 3rd year student of RTU MIREA. <br>I am studying for a bachelor's degree in Information and Communication Technologies and communication systems. <br>I'm going to practice at the OA Russian Space Forces soon.</font></h3>
 <!--## <center>Я студент 3 курса РТУ МИРЭА. <br>Я учусь на степень бакалавра в области информационно - коммуникационных технологий и систем связи. Я скоро буду тренироваться в ОА Российские Космические Войска.</center>-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmistie&repo=github-readme-stats&theme=midnight-purple)](https://github.com/lmistie/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmistie&repo=github-readme-stats&theme=midnight-purple)](https://github.com/lmistie/github-readme-stats) -->
 
 <h3 align="center"><font size="10px">
 
