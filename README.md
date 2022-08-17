@@ -1,8 +1,8 @@
-<h1 align="right"><font size="10px"> Gorbunov Roman 
+<p align="right"><font size="10px"> Gorbunov Roman 
 
    ![Profile Badges](https://www.codewars.com/users/lmistie/badges/large)
 
-</font></h1>
+</font></p>
 
 <!--# <center> Меня зовут Горбунов Роман </center>-->
 <h2 align="center"><font size="6px"> I'm beginner Software Engineer and Web Programmer</font></h2>
