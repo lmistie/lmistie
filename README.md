@@ -1,4 +1,4 @@
-<h2 align="center"><font size="6px"> Gorbunov Roman </font></h2>
+<h2 align="right"><font size="6px"> Gorbunov Roman </font></h2>
 
    ![Profile Badges](https://www.codewars.com/users/lmistie/badges/large)
 
