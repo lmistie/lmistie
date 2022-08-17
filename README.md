@@ -45,19 +45,18 @@
 
 </div>
 
-<div align="center">
-
-   ![Profile Badges](https://www.codewars.com/users/lmistie/badges/large)
-
-</div>
-
-
 <h3 align="center"><font size="6px"> My Stats </font></h3>
 <div align="center">
 
 [![lmistie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+</div>
+
+<div align="center">
+
+   ![Profile Badges](https://www.codewars.com/users/lmistie/badges/large)
 
 </div>
 
