@@ -23,7 +23,7 @@
 ![CSS](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css3) -->
 <!-- ![JavaScript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=JavaScript) -->
 <!-- ![.NET](https://img.shields.io/badge/-Framework-000000?style=for-the-badge&logo=.net) -->
-![Pascal]https://img.shields.io/badge/-pascal-000000?style=for-the-badge&logo=pascal)
+![Pascal](https://img.shields.io/badge/-pascal-000000?style=for-the-badge&logo=pascal)
 ![C_prog](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![CPP](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
