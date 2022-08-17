@@ -47,7 +47,7 @@
 
 <div align="center">
 
-   [![(https://www.codewars.com/users/lmistie/badges/large)]
+   ![Profile Badges](https://www.codewars.com/users/lmistie/badges/large)
 
 </div>
 
