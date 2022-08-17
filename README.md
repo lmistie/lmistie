@@ -32,6 +32,8 @@
 ![ASSEMBLER](https://img.shields.io/badge/-Asm-000000?style=for-the-badge&logo=AssemblyScript)
 
 
+
+
 </div>
 <!--![Sql](https://img.shields.io/badge/-mySql-000000?style=for-the-badge&logo=mySql)-->
 <!--![Ruby](https://img.shields.io/badge/-ruby-000000?style=for-the-badge&logo=ruby)-->
@@ -43,7 +45,11 @@
 
 </div>
 
+<div align="center">
 
+    https://www.codewars.com/users/lmistie/badges/large
+
+</div>
 
 
 <h3 align="center"><font size="6px"> My Stats </font></h3>
