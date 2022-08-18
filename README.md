@@ -1,9 +1,8 @@
 <div align="right">
-    <font size = 7"> Gorbunov Roman </font>
+    <p><big> Gorbunov Roman </big></p>
 
    ![Profile Badges](https://www.codewars.com/users/lmistie/badges/large)
 
-</font>
 </div>
 
 <!--# <center> Меня зовут Горбунов Роман </center>-->
@@ -12,18 +11,18 @@
 
 [![Header](https://github.com/lmistie/lmistie/blob/master/img/header.png)](https://www.canva.com/design/DAEqeZfAzNc/-UYjaGaKHueaHdypzOIU_w/view?website#2:1)
 
-<Alt-h3 align="center"><font size="5px">I am a 3rd year student of RTU MIREA. <br>I am studying for a bachelor's degree in Information and Communication Technologies and communication systems. <br>I'm going to practice at the OA Russian Space Forces soon.</font></h3>
+<h3 align="center"><font size="5px">I am a 3rd year student of RTU MIREA. <br>I am studying for a bachelor's degree in Information and Communication Technologies and communication systems. <br>I'm going to practice at the OA Russian Space Forces soon.</font></h3>
 <!--## <center>Я студент 3 курса РТУ МИРЭА. <br>Я учусь на степень бакалавра в области информационно - коммуникационных технологий и систем связи. Я скоро буду тренироваться в ОА Российские Космические Войска.</center>-->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmistie&repo=github-readme-stats&theme=midnight-purple)](https://github.com/lmistie/github-readme-stats) -->
 
-<Alt-h3 align="center"><font size="10px">
+<h3 align="center"><font size="10px">
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F7F7F7FF&lines=+++++Computer+science+student)](https://git.io/typing-svg) -->
 
 </font></h3>
 
-<Alt-h2 align="center"><font size="6px">  My languages and tools</font></h2>
+<h3 align="center"><font size="16px">  My languages and tools</font></h3>
 <div align="center">
 
 <!--![HTML](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5)
@@ -52,7 +51,7 @@
 
 </div>
 
-<Alt-h3 align="center"><font size="6px"> My Stats </font></h3>
+<h3 align="center"><font size="6px"> My Stats </font></h3>
 <div align="center">
 
 [![lmistie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -67,7 +66,7 @@
 
 </div> -->
 
-<Alt-h3 align="center"><font size="6px"> Follow me </font></h3>
+<h3 align="center"><font size="6px"> Follow me </font></h3>
 
 <div align="center">
 
