@@ -46,13 +46,13 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&langs_count=8&theme=dark)](https://github.com/lmistie/)
 
 </div>
 
 <div align="center">
 
-![Lmistie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie&show_icons=true&theme=dark)
+![Lmistie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie&show_icons=true&theme=merko)
 
 </div>
 
