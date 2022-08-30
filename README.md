@@ -43,6 +43,7 @@
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&layout=compact)](https://github.com/lmistie/github-readme-stats)-->
+
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmistie&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -51,7 +52,7 @@
 
 <div align="center">
 
-[![lmistie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![lmistie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=dark)]()
 
 </div>
 
