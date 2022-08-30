@@ -6,7 +6,7 @@
 </div>
 
 <!--# <center> Меня зовут Горбунов Роман </center>-->
-<div align="right"><font size="10px"> [En] I'm beginner Software Engineer and Web Programmer<br> [Ru] Я начинающий Программист-разработчик и Веб-программист</font></div><br>  
+<div align="right"><font size="10px"> [En] I'm beginner Software Engineer and Web Programmer<br> [Rus] Я начинающий Программист-разработчик и Веб-программист</font></div><br>  
 <!--# <center> [Rus] Я начинающий инженер-программист и веб-программист</center>-->
 
 [![Header](https://github.com/lmistie/lmistie/blob/master/img/header.png)](https://www.canva.com/design/DAEqeZfAzNc/-UYjaGaKHueaHdypzOIU_w/view?website#2:1)
