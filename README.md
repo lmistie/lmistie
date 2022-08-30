@@ -52,7 +52,7 @@
 
 <div align="center">
 
-[![Statistic](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)(https://github.com/anuraghazra/github-readme-stats)
+[![Statistic](https://github-readme-stats.vercel.app/api/wakatime/?username=lmistie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)(https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
