@@ -52,6 +52,12 @@
 
 <div align="center">
 
+![Lmistie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmistie&show_icons=true&theme=dark)
+
+</div>
+
+<div align="center">
+
 [![lmistie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmistie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
