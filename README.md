@@ -1,11 +1,9 @@
-<!--# <center> Меня зовут Горбунов Роман </center>-->
-<div align="right"><font size="10px"> [En] I'm beginner Software Engineer and Web Programmer<br> [Rus] Я начинающий Программист-разработчик</font></div><br>  
-<!--# <center> [Rus] Я начинающий инженер-программист и веб-программист</center>-->
+<h1><font size="10px">Я начинающий Программист-разработчик</font></h1><br>  
 
 [![Header](https://github.com/lmistie/lmistie/blob/master/img/header.png)](https://www.canva.com/design/DAEqeZfAzNc/-UYjaGaKHueaHdypzOIU_w/view?website#2:1)
 
-<h3 align="left"><font size="5px">[English]<br> I am a 4rd year student of RTU MIREA. <br>I am studying for a bachelor's degree in Information and Communication Technologies and communication systems. I'm going to practice at the OA Russian Space Forces soon.<br><br>
-[Russian]<br> Я студент 4 курса РТУ МИРЭА. <br>Я учусь на степень бакалавра в области информационно - коммуникационных технологий и систем связи. А скоро буду практиковаться в ОА Российские Космические Войска.</font></h3>
+<h3 align="left"><font size="5px">
+Я студент 4 курса РТУ МИРЭА. <br>Я учусь на степень бакалавра в области информационно - коммуникационных технологий и систем связи. А скоро буду практиковаться в ОА Российские Космические Войска.</font></h3>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmistie&repo=github-readme-stats&theme=midnight-purple)](https://github.com/lmistie/github-readme-stats) -->
 
@@ -15,7 +13,7 @@
 
 </font></h3>
 
-<h3 align="center"><font size="16px">  [En] Programming languages and tools<br>[Rus] Языки программирования и инструменты</font></h3>
+<h3 align="center"><font size="16px">Языки программирования и инструменты</font></h3>
 <div align="center">
 
 <!--![HTML](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5)
