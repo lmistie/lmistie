@@ -37,6 +37,7 @@
 ![Vim](https://img.shields.io/badge/-vim-000000?style=for-the-badge&logo=Vim)
 ![LINUX](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 ![MACOS](https://img.shields.io/badge/Macos-000?style=for-the-badge&logo=macOS&logoColor=white)
+![AstraLinux](https://img.shields.io/badge/Macos-000?style=for-the-badge&logo=AstraLinux&logoColor=white)
 
 </div>
 
