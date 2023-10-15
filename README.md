@@ -30,14 +30,15 @@
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=23777BB4)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=23563D7C)
-![Apache](https://img.shields.io/badge/apache-000?style=for-the-badge&logo=apache&logoColor=23D42029)
-![Nginx](https://img.shields.io/badge/nginx-000?style=for-the-badge&logo=nginx&logoColor=23009639)
+![Apache](https://img.shields.io/badge/apache-000?style=for-the-badge&logo=apache&logoColor=darkorange)
+![Nginx](https://img.shields.io/badge/nginx-000?style=for-the-badge&logo=nginx&logoColor=green)
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=230db7ed)
-![Vscode](https://img.shields.io/badge/-vscode-000000?style=for-the-badge&logo=VisualStudioCode)
+![Vscode](https://img.shields.io/badge/-vscode-000000?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)
+![Qt5](https://img.shields.io/badge/QtCreator-000000?style=for-the-badge&logo=Qt)
 ![Vim](https://img.shields.io/badge/-vim-000000?style=for-the-badge&logo=Vim)
 ![LINUX](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 ![MACOS](https://img.shields.io/badge/Macos-000?style=for-the-badge&logo=macOS&logoColor=white)
-![AstraLinux](https://img.shields.io/badge/AstraLinux-000?style=for-the-badge&logo=AstraLinux&logoColor=white)
+![AstraLinux](https://img.shields.io/badge/AstraLinux-000?style=for-the-badge&logo=debian&logoColor=red)
 
 </div>
 
