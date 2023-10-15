@@ -28,8 +28,6 @@
 ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=F38020)
 ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=4D54D8)
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=23777BB4)
-![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=23563D7C)
 ![Apache](https://img.shields.io/badge/apache-000?style=for-the-badge&logo=apache&logoColor=darkorange)
 ![Nginx](https://img.shields.io/badge/nginx-000?style=for-the-badge&logo=nginx&logoColor=green)
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=230db7ed)
