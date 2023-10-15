@@ -21,6 +21,7 @@
 
 # 💻 Технический Стек:
 
+![Pascal](https://img.shields.io/badge/-Delphi5-000000?style=for-the-badge&logo=delphi)
 ![Matlab](https://img.shields.io/badge/-matlab-000000?style=for-the-badge&logo=matlab)
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C&logoColor=1144AA)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=1144AA)
